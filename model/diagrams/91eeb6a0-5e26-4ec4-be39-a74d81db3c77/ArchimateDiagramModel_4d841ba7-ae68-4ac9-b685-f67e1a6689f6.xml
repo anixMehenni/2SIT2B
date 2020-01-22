@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="prime"
-    id="4d841ba7-ae68-4ac9-b685-f67e1a6689f6">
+    id="4d841ba7-ae68-4ac9-b685-f67e1a6689f6"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13f7f207-81b5-4369-937d-a892f35c791a"

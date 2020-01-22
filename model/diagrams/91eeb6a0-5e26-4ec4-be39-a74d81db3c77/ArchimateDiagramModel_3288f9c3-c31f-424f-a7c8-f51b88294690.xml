@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Préstation"
-    id="3288f9c3-c31f-424f-a7c8-f51b88294690">
+    id="3288f9c3-c31f-424f-a7c8-f51b88294690"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7834a968-6260-456a-9fdd-c66fc778c21e"

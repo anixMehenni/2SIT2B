@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestion des cotisation"
-    id="33e499d1-ee60-47d3-ae94-b1dc893683af">
+    id="33e499d1-ee60-47d3-ae94-b1dc893683af"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a6165d68-719d-4cbf-b658-6c0e754918cc"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enregistrement des adhésions"
-    id="cdf82f43-5ad5-4968-9ae5-0acf48508fd2">
+    id="cdf82f43-5ad5-4968-9ae5-0acf48508fd2"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bc0fe2fd-0b60-4868-8a97-438072903402"

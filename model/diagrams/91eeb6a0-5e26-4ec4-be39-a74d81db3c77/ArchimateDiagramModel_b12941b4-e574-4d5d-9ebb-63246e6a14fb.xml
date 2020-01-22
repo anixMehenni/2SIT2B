@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestion des remboursements"
-    id="b12941b4-e574-4d5d-9ebb-63246e6a14fb">
+    id="b12941b4-e574-4d5d-9ebb-63246e6a14fb"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6cf69622-a296-469b-a5b3-4add6455de69">
@@ -565,5 +566,17 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_bd11766d-4cf5-4a7a-bb88-2269d7356886.xml#bd11766d-4cf5-4a7a-bb88-2269d7356886"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="22e03106-d271-4fc2-bf52-fbe64e9953a4">
+    <bounds
+        x="156"
+        y="729"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_e60af87b-56dd-4350-ad58-d03d2c8f2c36.xml#e60af87b-56dd-4350-ad58-d03d2c8f2c36"/>
   </children>
 </archimate:ArchimateDiagramModel>

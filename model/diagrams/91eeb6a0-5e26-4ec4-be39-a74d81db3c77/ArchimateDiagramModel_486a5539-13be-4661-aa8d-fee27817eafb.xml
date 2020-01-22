@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestion EDI"
-    id="486a5539-13be-4661-aa8d-fee27817eafb">
+    id="486a5539-13be-4661-aa8d-fee27817eafb"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="98b7c765-5b12-472d-ba3c-275986c07114">

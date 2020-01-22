@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Remboursement Prestation "
-    id="f3566813-67e6-4f5f-8b3b-59fc8cbd1bbc">
+    id="f3566813-67e6-4f5f-8b3b-59fc8cbd1bbc"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="33db057b-7c7e-4c85-81cf-a4bed088f1b3"

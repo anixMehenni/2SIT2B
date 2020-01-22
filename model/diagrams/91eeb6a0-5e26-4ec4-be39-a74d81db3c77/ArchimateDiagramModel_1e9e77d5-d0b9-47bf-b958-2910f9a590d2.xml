@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestion des primes"
-    id="1e9e77d5-d0b9-47bf-b958-2910f9a590d2">
+    id="1e9e77d5-d0b9-47bf-b958-2910f9a590d2"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="7020db12-d7fd-4235-9383-e7739034be7c"
