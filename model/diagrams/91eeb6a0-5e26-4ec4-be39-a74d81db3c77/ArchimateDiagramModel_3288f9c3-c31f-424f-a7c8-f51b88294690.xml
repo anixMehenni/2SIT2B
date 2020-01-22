@@ -80,8 +80,8 @@
           href="TriggeringRelationship_a07e8f28-ecb3-4bec-b9aa-0b466f391b22.xml#a07e8f28-ecb3-4bec-b9aa-0b466f391b22"/>
     </sourceConnections>
     <bounds
-        x="591"
-        y="514"
+        x="627"
+        y="492"
         width="757"
         height="339"/>
     <children
@@ -587,7 +587,7 @@
       id="22a506f4-d58c-4a7b-b2ac-85ef9d2cd6c2"
       targetConnections="b450bf36-86a5-4afe-aca7-09be7673e885">
     <bounds
-        x="1308"
+        x="1212"
         y="888"
         width="120"
         height="55"/>
