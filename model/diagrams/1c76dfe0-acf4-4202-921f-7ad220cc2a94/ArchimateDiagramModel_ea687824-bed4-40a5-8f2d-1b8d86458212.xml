@@ -808,9 +808,28 @@
         id="cccb0763-21e2-4eed-a5aa-b9fb5f6615f9"
         source="afd65d9a-fb2d-4a1d-b630-90dd711a36b5"
         target="e0323f36-9b0c-42dd-bfc1-93d5bcc87167">
+      <bendpoints
+          startX="-2"
+          startY="-105"
+          endX="-277"
+          endY="108"/>
+      <bendpoints
+          startX="262"
+          startY="-105"
+          endX="-13"
+          endY="108"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_6436bc3c-2d40-4d35-b1e4-21a211befb85.xml#6436bc3c-2d40-4d35-b1e4-21a211befb85"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d0bf8c3d-c2a9-4565-8ef7-45c21ccb2092"
+        source="afd65d9a-fb2d-4a1d-b630-90dd711a36b5"
+        target="47e1a095-2293-4079-9f1d-a6288d8a9bc3">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_c8c4fa82-a5ef-4eff-9d5b-d72281aa2eb8.xml#c8c4fa82-a5ef-4eff-9d5b-d72281aa2eb8"/>
     </sourceConnections>
     <bounds
         x="5894"
@@ -852,7 +871,7 @@
       id="861d2871-7dfd-4c4b-9428-6c86d913fa37"
       targetConnections="753e4eeb-3eb7-46cb-9e30-c25441ba7bfe">
     <bounds
-        x="5868"
+        x="6013"
         y="141"
         width="120"
         height="55"/>
@@ -1021,7 +1040,7 @@
       id="e0323f36-9b0c-42dd-bfc1-93d5bcc87167"
       targetConnections="cccb0763-21e2-4eed-a5aa-b9fb5f6615f9">
     <bounds
-        x="6024"
+        x="6169"
         y="141"
         width="120"
         height="55"/>
@@ -1354,5 +1373,18 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_c79733c9-16e3-459c-a9ba-c04c85c6f9f3.xml#c79733c9-16e3-459c-a9ba-c04c85c6f9f3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="47e1a095-2293-4079-9f1d-a6288d8a9bc3"
+      targetConnections="d0bf8c3d-c2a9-4565-8ef7-45c21ccb2092">
+    <bounds
+        x="5856"
+        y="141"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_5419811e-1391-4d7e-8478-a599010e59a8.xml#5419811e-1391-4d7e-8478-a599010e59a8"/>
   </children>
 </archimate:ArchimateDiagramModel>
