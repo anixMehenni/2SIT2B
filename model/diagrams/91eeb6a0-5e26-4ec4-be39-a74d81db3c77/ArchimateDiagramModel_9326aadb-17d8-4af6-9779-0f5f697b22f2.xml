@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Stock"
+    name="Gestion de stock"
     id="9326aadb-17d8-4af6-9779-0f5f697b22f2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
