@@ -378,49 +378,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c76176f9-8013-419d-99b7-2e0e4a2f9eba">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="5e094427-606a-4be9-9153-d1751d3e08d7"
-        source="c76176f9-8013-419d-99b7-2e0e4a2f9eba"
-        target="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_681d2f1c-2183-4388-b38b-afb9dfcbb12b.xml#681d2f1c-2183-4388-b38b-afb9dfcbb12b"/>
-    </sourceConnections>
-    <bounds
-        x="648"
-        y="24"
-        width="288"
-        height="180"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c"
-        targetConnections="5e094427-606a-4be9-9153-d1751d3e08d7 6844959b-ec60-4c58-a63f-6dd522e54810">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="ff44897c-2623-463c-9f82-8da6176dc55b"
-          source="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c"
-          target="a1b74b3f-26a1-4750-adc1-e57dd8506f41">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_bbdca75e-6b91-45c4-b616-dc30a4aa7520.xml#bbdca75e-6b91-45c4-b616-dc30a4aa7520"/>
-      </sourceConnections>
-      <bounds
-          x="24"
-          y="72"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:BusinessRole"
-          href="BusinessRole_bd267ed2-743c-4440-a17b-b7da7e791554.xml#bd267ed2-743c-4440-a17b-b7da7e791554"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Location"
-        href="Location_ad5cfc0f-8172-4695-82e1-d9b84979fc56.xml#ad5cfc0f-8172-4695-82e1-d9b84979fc56"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="31455eb8-7540-4e08-bb5a-3356004dd4b1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -448,5 +405,48 @@
     <archimateElement
         xsi:type="archimate:BusinessInterface"
         href="BusinessInterface_0b571d13-6001-4ff5-828f-7257fa3f39b8.xml#0b571d13-6001-4ff5-828f-7257fa3f39b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d85ff6f9-e333-4a32-ba0a-9372f32d9bdf">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="22cb6628-9634-486f-a766-f3e41e98d2e4"
+        source="d85ff6f9-e333-4a32-ba0a-9372f32d9bdf"
+        target="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_0c8537b6-fc52-4f3f-9bd3-5d3c67aaa537.xml#0c8537b6-fc52-4f3f-9bd3-5d3c67aaa537"/>
+    </sourceConnections>
+    <bounds
+        x="696"
+        y="72"
+        width="337"
+        height="157"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c"
+        targetConnections="6844959b-ec60-4c58-a63f-6dd522e54810 22cb6628-9634-486f-a766-f3e41e98d2e4">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="ff44897c-2623-463c-9f82-8da6176dc55b"
+          source="dd72ef60-d5e0-4c3d-ad56-8b5cee2db96c"
+          target="a1b74b3f-26a1-4750-adc1-e57dd8506f41">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_bbdca75e-6b91-45c4-b616-dc30a4aa7520.xml#bbdca75e-6b91-45c4-b616-dc30a4aa7520"/>
+      </sourceConnections>
+      <bounds
+          x="96"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_bd267ed2-743c-4440-a17b-b7da7e791554.xml#bd267ed2-743c-4440-a17b-b7da7e791554"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Location"
+        href="Location_bbcd3b1b-03ea-4f7a-b331-9e6e7e038c20.xml#bbcd3b1b-03ea-4f7a-b331-9e6e7e038c20"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Liste des actes"
+    id="76ef1373-f1d6-4085-88ec-22198728c44d"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="58bcffe2-9584-4532-9ff6-5e1ebc609c63"
+      targetConnections="3c199b09-9eb7-497a-a0ee-707a0b6bf1d4">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_2a33e4be-281b-47f8-8901-fdc2907590bd.xml#2a33e4be-281b-47f8-8901-fdc2907590bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7c1ce2df-ee7c-40b1-b24a-8aa32b5e1b3e">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3c199b09-9eb7-497a-a0ee-707a0b6bf1d4"
+        source="7c1ce2df-ee7c-40b1-b24a-8aa32b5e1b3e"
+        target="58bcffe2-9584-4532-9ff6-5e1ebc609c63">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_6f20b682-f6c8-4632-a09e-bb8bcc09ab97.xml#6f20b682-f6c8-4632-a09e-bb8bcc09ab97"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_e60af87b-56dd-4350-ad58-d03d2c8f2c36.xml#e60af87b-56dd-4350-ad58-d03d2c8f2c36"/>
+  </children>
+</archimate:ArchimateDiagramModel>

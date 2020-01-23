@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrat Mutuelle"
+    id="e6869fdf-9139-40a1-b834-5faa22cf5dfe"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4654a5ca-f514-4125-a5d4-de8eaa526994"
+      targetConnections="eb9fca62-c3d7-45ab-b3f6-517f6b51e5fe">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_cf10356e-03e5-4deb-a14b-e368bc9584c4.xml#cf10356e-03e5-4deb-a14b-e368bc9584c4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f9da5d05-ca49-4cb3-8a0d-221395319b1c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="eb9fca62-c3d7-45ab-b3f6-517f6b51e5fe"
+        source="f9da5d05-ca49-4cb3-8a0d-221395319b1c"
+        target="4654a5ca-f514-4125-a5d4-de8eaa526994">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_4c25a92a-19e8-4163-b53c-1d6d2e3391a2.xml#4c25a92a-19e8-4163-b53c-1d6d2e3391a2"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_7c5a00ca-7138-4dd1-9ed2-84d627781814.xml#7c5a00ca-7138-4dd1-9ed2-84d627781814"/>
+  </children>
+</archimate:ArchimateDiagramModel>

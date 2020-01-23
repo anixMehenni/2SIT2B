@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ticket modérateur"
+    id="0d818edf-79f3-418b-a520-3cc311ba706b"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fe47718a-659f-4377-918c-0937e600f912"
+      targetConnections="5da62af8-843f-4715-b8cc-6191eda95115">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_7bdde015-6852-414f-9a65-d814b9b9d032.xml#7bdde015-6852-414f-9a65-d814b9b9d032"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1abbabba-ad4e-4186-b97c-629dd63a692b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="5da62af8-843f-4715-b8cc-6191eda95115"
+        source="1abbabba-ad4e-4186-b97c-629dd63a692b"
+        target="fe47718a-659f-4377-918c-0937e600f912">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_23d40970-5e00-49ed-952e-c51bbfdaff28.xml#23d40970-5e00-49ed-952e-c51bbfdaff28"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_1de9c239-4e06-431f-95eb-1e820bdcea7e.xml#1de9c239-4e06-431f-95eb-1e820bdcea7e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrat Capital Décès"
+    id="c8fa6d7a-9ab8-42d3-ac6e-6ae1e2374ef2"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a18d1b83-e6cc-4c9f-bb72-ec0944eb383f"
+      targetConnections="234b2371-7786-460f-a8fa-a13bed0e4caf">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_4a76df20-e9cd-4788-80b4-b82f4165692f.xml#4a76df20-e9cd-4788-80b4-b82f4165692f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8e5eddc7-2117-4b63-9c44-3c12c2ae0af9">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="234b2371-7786-460f-a8fa-a13bed0e4caf"
+        source="8e5eddc7-2117-4b63-9c44-3c12c2ae0af9"
+        target="a18d1b83-e6cc-4c9f-bb72-ec0944eb383f">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_d621ebac-69fb-4086-94b0-4f1e41d05401.xml#d621ebac-69fb-4086-94b0-4f1e41d05401"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_b845942b-7962-49c7-b641-fcab9140ec16.xml#b845942b-7962-49c7-b641-fcab9140ec16"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pret "
+    id="173d7423-6966-4571-8f27-6b85d9be1361"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="59275d6a-c6c4-49e8-bb6b-71749a3e96a8"
+      targetConnections="4cbfee64-de8e-4d6f-8adf-5f508d5cb041">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_03aeed55-ba28-4cff-ab9c-e17f0e0af26a.xml#03aeed55-ba28-4cff-ab9c-e17f0e0af26a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7863bac2-0cb2-493e-8c00-6d6f4f435b0a">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4cbfee64-de8e-4d6f-8adf-5f508d5cb041"
+        source="7863bac2-0cb2-493e-8c00-6d6f4f435b0a"
+        target="59275d6a-c6c4-49e8-bb6b-71749a3e96a8">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_472e2939-d75f-45aa-864a-11be121f7e91.xml#472e2939-d75f-45aa-864a-11be121f7e91"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_3623b491-1298-4323-b387-a8d4627d9fdb.xml#3623b491-1298-4323-b387-a8d4627d9fdb"/>
+  </children>
+</archimate:ArchimateDiagramModel>

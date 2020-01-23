@@ -1,0 +1,41 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Décision décès"
+    id="09874d96-4e25-4d5f-a89c-f1eccd1730d0"
+    viewpoint="information_structure">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="db3f681c-b802-4d1c-a234-957855e8bcf0"
+      targetConnections="88f6820c-ccab-4b93-8c0b-0abf3287b151">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_3e0cfb31-948b-40c8-b544-c46ee5d3ab7d.xml#3e0cfb31-948b-40c8-b544-c46ee5d3ab7d"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="59821c61-59c7-4fd1-8d0c-33a4b1adc569">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="88f6820c-ccab-4b93-8c0b-0abf3287b151"
+        source="59821c61-59c7-4fd1-8d0c-33a4b1adc569"
+        target="db3f681c-b802-4d1c-a234-957855e8bcf0">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_a7709d62-c29e-4949-9147-0e1e2ed826f5.xml#a7709d62-c29e-4949-9147-0e1e2ed826f5"/>
+    </sourceConnections>
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_d765626c-7fc3-40f2-a122-9090457ad912.xml#d765626c-7fc3-40f2-a122-9090457ad912"/>
+  </children>
+</archimate:ArchimateDiagramModel>
