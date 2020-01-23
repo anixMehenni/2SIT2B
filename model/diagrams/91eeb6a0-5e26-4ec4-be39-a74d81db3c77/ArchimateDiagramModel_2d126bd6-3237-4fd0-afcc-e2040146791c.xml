@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestion des immobilisations"
+    id="2d126bd6-3237-4fd0-afcc-e2040146791c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="db8c568d-1626-43fc-8651-b17dd7ed3731">
+    <bounds
+        x="192"
+        y="264"
+        width="937"
+        height="385"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_235b44bf-5a0b-4829-bede-1419edede320.xml#235b44bf-5a0b-4829-bede-1419edede320"/>
+  </children>
+</archimate:ArchimateDiagramModel>
