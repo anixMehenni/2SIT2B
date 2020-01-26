@@ -82,7 +82,16 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="70a56d4d-ceaf-404f-9d58-c469c7de8e16"
-        targetConnections="1fd99200-080a-4954-bf1f-a019cca2b833 95b6dd44-f246-4f29-96cc-1838fff053bd f679c459-449d-41b6-b49a-7dd85b395266">
+        targetConnections="1fd99200-080a-4954-bf1f-a019cca2b833 95b6dd44-f246-4f29-96cc-1838fff053bd f679c459-449d-41b6-b49a-7dd85b395266 53c33096-fac9-4d2f-bc47-f3f641c34d30">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="bddd854f-e8d4-4914-8088-35469aa3a6b2"
+          source="70a56d4d-ceaf-404f-9d58-c469c7de8e16"
+          target="e7b82903-ae97-438c-8e83-8f69c8c033c6">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_72dc4f89-b9b6-4b60-bda0-46a94952cfc5.xml#72dc4f89-b9b6-4b60-bda0-46a94952cfc5"/>
+      </sourceConnections>
       <bounds
           x="292"
           y="24"
@@ -95,7 +104,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e7b82903-ae97-438c-8e83-8f69c8c033c6"
-        targetConnections="fafcfedc-0cc9-445b-95a1-48b95929fda1 b582884a-a1ac-4635-a276-d6d14399a92c">
+        targetConnections="fafcfedc-0cc9-445b-95a1-48b95929fda1 b582884a-a1ac-4635-a276-d6d14399a92c bddd854f-e8d4-4914-8088-35469aa3a6b2">
       <bounds
           x="552"
           y="40"
@@ -122,8 +131,17 @@
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_df06634e-b788-4ad1-b3fb-9592c4287f21.xml#df06634e-b788-4ad1-b3fb-9592c4287f21"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="53c33096-fac9-4d2f-bc47-f3f641c34d30"
+          source="bbb36933-caeb-4f3f-baca-29d5aac8d3c4"
+          target="70a56d4d-ceaf-404f-9d58-c469c7de8e16">
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_bc806439-18a7-4d6c-8cda-d14c1ff2494c.xml#bc806439-18a7-4d6c-8cda-d14c1ff2494c"/>
+      </sourceConnections>
       <bounds
-          x="40"
+          x="48"
           y="12"
           width="109"
           height="109"/>
@@ -428,8 +446,8 @@
       id="a2de08ce-4139-42d8-822c-4cbbdb18da3c"
       targetConnections="00d87a44-d557-4c1e-a81f-e4850e44dfe5">
     <bounds
-        x="1254"
-        y="99"
+        x="1248"
+        y="109"
         width="120"
         height="55"/>
     <archimateElement
