@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistiques en temps réel"
+    id="2a1fca63-a7e1-41ca-8537-a027ecd7fcf6">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_fdd11c1f-a248-4083-a127-96eaa3296705.xml#fdd11c1f-a248-4083-a127-96eaa3296705"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_e20168e8-f27a-4057-8bec-42b7fe378943.xml#e20168e8-f27a-4057-8bec-42b7fe378943"/>
+</archimate:FlowRelationship>

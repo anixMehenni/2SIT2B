@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistiques adhérents"
+    id="f72d254d-d2c8-40ac-81e6-79baab716d2f">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_861b01b6-70a1-46f3-8ef7-b3e30291d088.xml#861b01b6-70a1-46f3-8ef7-b3e30291d088"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e8d8b8e4-5b80-4575-b588-32fdfe2b39aa.xml#e8d8b8e4-5b80-4575-b588-32fdfe2b39aa"/>
+</archimate:FlowRelationship>

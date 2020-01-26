@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistiques préstations"
+    id="df947ea4-6653-4d62-8607-7fa4a60be1ee">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_19bf4b39-1577-4b75-b16f-bb2a49f25e55.xml#19bf4b39-1577-4b75-b16f-bb2a49f25e55"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_e8d8b8e4-5b80-4575-b588-32fdfe2b39aa.xml#e8d8b8e4-5b80-4575-b588-32fdfe2b39aa"/>
+</archimate:FlowRelationship>
