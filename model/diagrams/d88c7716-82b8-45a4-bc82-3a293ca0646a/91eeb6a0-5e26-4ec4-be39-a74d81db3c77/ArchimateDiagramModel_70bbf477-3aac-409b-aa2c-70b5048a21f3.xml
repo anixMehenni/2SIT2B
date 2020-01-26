@@ -93,8 +93,8 @@
           href="RealizationRelationship_aa230f3f-867e-41e3-928d-f0150003bd43.xml#aa230f3f-867e-41e3-928d-f0150003bd43"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="336"
+        x="252"
+        y="345"
         width="1105"
         height="253"/>
     <children
@@ -111,7 +111,7 @@
             href="TriggeringRelationship_33f4890e-6f77-43d5-a5fe-963a2d22578a.xml#33f4890e-6f77-43d5-a5fe-963a2d22578a"/>
       </sourceConnections>
       <bounds
-          x="92"
+          x="96"
           y="103"
           width="120"
           height="55"/>
